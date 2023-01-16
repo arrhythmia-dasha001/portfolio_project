@@ -98,3 +98,8 @@ p {
     text-align: center;
   }
 }
+
+nav li,
+a {
+  font-family: "Poppins", sans-serif;
+}
